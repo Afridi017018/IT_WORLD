@@ -435,3 +435,19 @@ right: 5%;
    }
 
 }
+
+
+#myBtn{
+    display: none;
+    position:fixed;
+    bottom: 20px;
+    right: 40px;
+    z-index: 999;
+    border: none;
+    color: #fff;
+    background-color: #00abff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
